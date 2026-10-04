@@ -23,9 +23,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/REPLACE_WITH_GITHUB_USER/rt-core-amador"
-Repository = "https://github.com/REPLACE_WITH_GITHUB_USER/rt-core-amador"
-Issues = "https://github.com/REPLACE_WITH_GITHUB_USER/rt-core-amador/issues"
+Homepage = "https://github.com/franciscoabarriose89-spec/Rt-core-amador"
+Repository = "https://github.com/franciscoabarriose89-spec/Rt-core-amador"
+Issues = "https://github.com/franciscoabarriose89-spec/Rt-core-amador/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
